@@ -1,7 +1,7 @@
 ---
 title: "Time-Lock Puzzles from Lattices"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/Time-Lock-Puzzles-from-Lattices
 excerpt: 'Time-lock puzzles (TLP) are a cryptographic tool that allow one to encrypt a message into the future, for a predetermined amount of time $T$. At present, we have only two constructions with provable security: One based on the repeated squaring assumption and the other based on indistinguishability obfuscation (iO). Basing TLP on {\it any} other assumption is a long-standing question, further motivated by the fact that known constructions are broken by quantum algorithms.
 
